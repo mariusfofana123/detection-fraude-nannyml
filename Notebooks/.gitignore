@@ -1,0 +1,9 @@
+# Fichiers de données
+reference.csv
+analysis.csv
+*.csv
+
+# Fichiers temporaires Jupyter et Python
+.ipynb_checkpoints/
+__pycache__/
+venv
